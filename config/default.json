@@ -1,4 +1,5 @@
 {
   "port": 5000,
-  "mongoURI": ""
+  "jwtSecret": "chopsqd mern app",
+  "mongoURI": "mongodb+srv://Chopsqd:123@cluster0.cziu3dr.mongodb.net/?retryWrites=true&w=majority"
 }
